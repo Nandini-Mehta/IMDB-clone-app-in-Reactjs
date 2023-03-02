@@ -1,0 +1,14 @@
+.movieList {
+    padding: 0 3rem 3rem 3rem;
+    color: white;
+}
+
+.title {
+margin:  2.5rem;
+}
+
+.card-list {
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: center;
+}
